@@ -1,1 +1,1 @@
-This is a master file in remote master branch. it was modified locally
+This is a master file in remote master branch. it was modified in github.
